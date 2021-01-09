@@ -1,2 +1,4 @@
-i added this line in readme
-its sunny day outside
+first repo
+learning git
+i added this line in update-readme branch
+its windy day outside
